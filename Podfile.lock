@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Bagel (1.4.0):
+    - CocoaAsyncSocket
+  - CocoaAsyncSocket (7.6.5)
+  - lottie-ios (3.2.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Bagel (~> 1.4.0)
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Bagel
+    - CocoaAsyncSocket
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Bagel: c3fa6bcbd52db9ca976edbafd7638f0553ded101
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+
+PODFILE CHECKSUM: a8142c69911f8e952f71fc70a35c15bb328524aa
+
+COCOAPODS: 1.10.2
